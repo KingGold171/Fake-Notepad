@@ -16,3 +16,9 @@ C:\Users\King\Documents\GitHub\Fake-Notepad\Fake-Notepad\Notepad\bin\Debug\Notep
 C:\Users\King\Documents\GitHub\Fake-Notepad\Fake-Notepad\Notepad\obj\Debug\Notepad.exe
 C:\Users\King\Documents\GitHub\Fake-Notepad\Fake-Notepad\Notepad\obj\Debug\Notepad.xml
 C:\Users\King\Documents\GitHub\Fake-Notepad\Fake-Notepad\Notepad\obj\Debug\Notepad.pdb
+C:\Users\King\Documents\GitHub\Fake-Notepad\Fake-Notepad\Notepad\bin\Debug\Notepad.exe
+C:\Users\King\Documents\GitHub\Fake-Notepad\Fake-Notepad\Notepad\bin\Debug\Notepad.pdb
+C:\Users\King\Documents\GitHub\Fake-Notepad\Fake-Notepad\Notepad\bin\Debug\Notepad.xml
+C:\Users\King\Documents\GitHub\Fake-Notepad\Fake-Notepad\Notepad\obj\Debug\Notepad.Notepad.resources
+C:\Users\King\Documents\GitHub\Fake-Notepad\Fake-Notepad\Notepad\obj\Debug\Notepad.Resources.resources
+C:\Users\King\Documents\GitHub\Fake-Notepad\Fake-Notepad\Notepad\obj\Debug\Notepad.vbproj.GenerateResource.Cache

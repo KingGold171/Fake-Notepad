@@ -12,3 +12,7 @@ C:\Users\King\Documents\GitHub\Fake-Notepad\Notepad\bin\Debug\Notepad.exe.config
 C:\Users\King\Documents\GitHub\Fake-Notepad\Notepad\obj\Debug\Notepad.exe
 C:\Users\King\Documents\GitHub\Fake-Notepad\Notepad\obj\Debug\Notepad.xml
 C:\Users\King\Documents\GitHub\Fake-Notepad\Notepad\obj\Debug\Notepad.pdb
+C:\Users\King\Documents\GitHub\Fake-Notepad\Fake-Notepad\Notepad\bin\Debug\Notepad.exe.config
+C:\Users\King\Documents\GitHub\Fake-Notepad\Fake-Notepad\Notepad\obj\Debug\Notepad.exe
+C:\Users\King\Documents\GitHub\Fake-Notepad\Fake-Notepad\Notepad\obj\Debug\Notepad.xml
+C:\Users\King\Documents\GitHub\Fake-Notepad\Fake-Notepad\Notepad\obj\Debug\Notepad.pdb

@@ -20,7 +20,7 @@
         TextBox1.Text = Replace(TextBox1.Text, "CVV", "seeweewee")
         TextBox1.Text = Replace(TextBox1.Text, "$", "§")
         TextBox1.Text = Replace(TextBox1.Text, "bingo", "BING0!!!!1 YOU ARE SCAMMER!!!1 CONGRATULATIONS XD")
-        TextBox1.Text = Replace(TextBox1.Text, "firewall", "")
+        TextBox1.Text = Replace(TextBox1.Text, "firewall", "i came in like a wreakingball")
         TextBox1.Text = Replace(TextBox1.Text, "hackers", "like you are benchod?")
         TextBox1.Text = Replace(TextBox1.Text, "network", "are you a network technician")
         If TextBox1.Text.Contains("password") Then

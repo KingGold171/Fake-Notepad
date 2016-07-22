@@ -1,0 +1,14 @@
+F:\Notepad\Notepad\bin\Debug\Notepad.exe.config
+F:\Notepad\Notepad\bin\Debug\Notepad.exe
+F:\Notepad\Notepad\bin\Debug\Notepad.pdb
+F:\Notepad\Notepad\bin\Debug\Notepad.xml
+F:\Notepad\Notepad\obj\Debug\Notepad.Notepad.resources
+F:\Notepad\Notepad\obj\Debug\Notepad.Resources.resources
+F:\Notepad\Notepad\obj\Debug\Notepad.vbproj.GenerateResource.Cache
+F:\Notepad\Notepad\obj\Debug\Notepad.exe
+F:\Notepad\Notepad\obj\Debug\Notepad.xml
+F:\Notepad\Notepad\obj\Debug\Notepad.pdb
+C:\Users\King\Documents\GitHub\Fake-Notepad\Notepad\bin\Debug\Notepad.exe.config
+C:\Users\King\Documents\GitHub\Fake-Notepad\Notepad\obj\Debug\Notepad.exe
+C:\Users\King\Documents\GitHub\Fake-Notepad\Notepad\obj\Debug\Notepad.xml
+C:\Users\King\Documents\GitHub\Fake-Notepad\Notepad\obj\Debug\Notepad.pdb

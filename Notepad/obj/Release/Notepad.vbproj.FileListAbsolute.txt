@@ -1,0 +1,11 @@
+H:\Notepad\Notepad\bin\Release\Notepad.exe.config
+H:\Notepad\Notepad\bin\Release\Notepad.exe
+H:\Notepad\Notepad\bin\Release\Notepad.pdb
+H:\Notepad\Notepad\bin\Release\Notepad.xml
+H:\Notepad\Notepad\obj\Release\Notepad.Notepad.resources
+H:\Notepad\Notepad\obj\Release\Notepad.Resources.resources
+H:\Notepad\Notepad\obj\Release\Notepad.vbproj.GenerateResource.Cache
+H:\Notepad\Notepad\obj\Release\Notepad.exe
+H:\Notepad\Notepad\obj\Release\Notepad.xml
+H:\Notepad\Notepad\obj\Release\Notepad.pdb
+H:\Notepad\Notepad\obj\Release\Notepad.BSOD.resources

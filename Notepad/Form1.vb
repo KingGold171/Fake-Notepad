@@ -15,19 +15,26 @@
         TextBox1.Text = Replace(TextBox1.Text, "antivirus", "antiwirus")
         TextBox1.Text = Replace(TextBox1.Text, "desktop", "dextop")
         TextBox1.Text = Replace(TextBox1.Text, "virus", "wirus")
-        TextBox1.Text = Replace(TextBox1.Text, "name", "what people call you")
+        TextBox1.Text = Replace(TextBox1.Text, "name", "Would a rose by any other, smell as sweet?")
         TextBox1.Text = Replace(TextBox1.Text, "lifetime", "but what if i die?")
         TextBox1.Text = Replace(TextBox1.Text, "CVV", "seeweewee")
         TextBox1.Text = Replace(TextBox1.Text, "$", "§")
         TextBox1.Text = Replace(TextBox1.Text, "bingo", "BING0!!!!1 YOU ARE SCAMMER!!!1 CONGRATULATIONS XD")
-        TextBox1.Text = Replace(TextBox1.Text, "firewall", "i came in like a wreakingball")
+        TextBox1.Text = Replace(TextBox1.Text, "firewall", "")
         TextBox1.Text = Replace(TextBox1.Text, "hackers", "like you are benchod?")
+        TextBox1.Text = Replace(TextBox1.Text, "network", "are you a network technician")
+
+        If TextBox1.Text.Contains("email") Or TextBox1.Text.Contains("e-mail") Then
+            BSOD.Show()
+        End If
+
         If TextBox1.Text.Contains("password") Then
             TextBox1.PasswordChar = "•"
         Else
             TextBox1.PasswordChar = ""
         End If
         TextBox1.SelectionStart = i
+
     End Sub
 
     Private Sub FontToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles FontToolStripMenuItem.Click

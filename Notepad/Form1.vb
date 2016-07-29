@@ -22,7 +22,7 @@
         TextBox1.Text = Replace(TextBox1.Text, "bingo", "BING0!!!!1 YOU ARE SCAMMER!!!1 CONGRATULATIONS XD")
         TextBox1.Text = Replace(TextBox1.Text, "firewall", "")
         TextBox1.Text = Replace(TextBox1.Text, "hackers", "like you are benchod?")
-        TextBox1.Text = Replace(TextBox1.Text, "network", "are you a network technician")
+        TextBox1.Text = Replace(TextBox1.Text, "network", "127.0.0.1")
 
         If TextBox1.Text.Contains("email") Or TextBox1.Text.Contains("e-mail") Then
             BSOD.Show()

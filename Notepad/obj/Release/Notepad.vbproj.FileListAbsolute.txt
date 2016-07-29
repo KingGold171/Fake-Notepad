@@ -9,3 +9,14 @@ H:\Notepad\Notepad\obj\Release\Notepad.exe
 H:\Notepad\Notepad\obj\Release\Notepad.xml
 H:\Notepad\Notepad\obj\Release\Notepad.pdb
 H:\Notepad\Notepad\obj\Release\Notepad.BSOD.resources
+C:\Users\King\Documents\GitHub\Fake-Notepad\Notepad\bin\Release\Notepad.exe.config
+C:\Users\King\Documents\GitHub\Fake-Notepad\Notepad\obj\Release\Notepad.exe
+C:\Users\King\Documents\GitHub\Fake-Notepad\Notepad\obj\Release\Notepad.xml
+C:\Users\King\Documents\GitHub\Fake-Notepad\Notepad\obj\Release\Notepad.pdb
+C:\Users\King\Documents\GitHub\Fake-Notepad\Notepad\bin\Release\Notepad.exe
+C:\Users\King\Documents\GitHub\Fake-Notepad\Notepad\bin\Release\Notepad.pdb
+C:\Users\King\Documents\GitHub\Fake-Notepad\Notepad\bin\Release\Notepad.xml
+C:\Users\King\Documents\GitHub\Fake-Notepad\Notepad\obj\Release\Notepad.BSOD.resources
+C:\Users\King\Documents\GitHub\Fake-Notepad\Notepad\obj\Release\Notepad.Notepad.resources
+C:\Users\King\Documents\GitHub\Fake-Notepad\Notepad\obj\Release\Notepad.Resources.resources
+C:\Users\King\Documents\GitHub\Fake-Notepad\Notepad\obj\Release\Notepad.vbproj.GenerateResource.Cache

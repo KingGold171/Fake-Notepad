@@ -119,13 +119,13 @@ Partial Class Notepad
         Me.WordWrapToolStripMenuItem.Checked = True
         Me.WordWrapToolStripMenuItem.CheckState = System.Windows.Forms.CheckState.Checked
         Me.WordWrapToolStripMenuItem.Name = "WordWrapToolStripMenuItem"
-        Me.WordWrapToolStripMenuItem.Size = New System.Drawing.Size(152, 22)
+        Me.WordWrapToolStripMenuItem.Size = New System.Drawing.Size(134, 22)
         Me.WordWrapToolStripMenuItem.Text = "Word Wrap"
         '
         'FontToolStripMenuItem
         '
         Me.FontToolStripMenuItem.Name = "FontToolStripMenuItem"
-        Me.FontToolStripMenuItem.Size = New System.Drawing.Size(152, 22)
+        Me.FontToolStripMenuItem.Size = New System.Drawing.Size(134, 22)
         Me.FontToolStripMenuItem.Text = "Font"
         '
         'FindNextToolStripMenuItem
@@ -139,7 +139,7 @@ Partial Class Notepad
         '
         Me.StatusBarToolStripMenuItem.Enabled = False
         Me.StatusBarToolStripMenuItem.Name = "StatusBarToolStripMenuItem"
-        Me.StatusBarToolStripMenuItem.Size = New System.Drawing.Size(152, 22)
+        Me.StatusBarToolStripMenuItem.Size = New System.Drawing.Size(126, 22)
         Me.StatusBarToolStripMenuItem.Text = "Status Bar"
         '
         'HelpToolStripMenuItem

@@ -23,3 +23,14 @@ C:\Users\King\Documents\GitHub\Fake-Notepad\Notepad\obj\Debug\Notepad.BSOD.resou
 C:\Users\King\Documents\GitHub\Fake-Notepad\Notepad\obj\Debug\Notepad.Notepad.resources
 C:\Users\King\Documents\GitHub\Fake-Notepad\Notepad\obj\Debug\Notepad.Resources.resources
 C:\Users\King\Documents\GitHub\Fake-Notepad\Notepad\obj\Debug\Notepad.vbproj.GenerateResource.Cache
+C:\Users\King\Source\Repos\Fake-Notepad\Notepad\bin\Debug\Notepad.exe.config
+C:\Users\King\Source\Repos\Fake-Notepad\Notepad\obj\Debug\Notepad.exe
+C:\Users\King\Source\Repos\Fake-Notepad\Notepad\obj\Debug\Notepad.xml
+C:\Users\King\Source\Repos\Fake-Notepad\Notepad\obj\Debug\Notepad.pdb
+C:\Users\King\Source\Repos\Fake-Notepad\Notepad\bin\Debug\Notepad.exe
+C:\Users\King\Source\Repos\Fake-Notepad\Notepad\bin\Debug\Notepad.pdb
+C:\Users\King\Source\Repos\Fake-Notepad\Notepad\bin\Debug\Notepad.xml
+C:\Users\King\Source\Repos\Fake-Notepad\Notepad\obj\Debug\Notepad.BSOD.resources
+C:\Users\King\Source\Repos\Fake-Notepad\Notepad\obj\Debug\Notepad.Notepad.resources
+C:\Users\King\Source\Repos\Fake-Notepad\Notepad\obj\Debug\Notepad.Resources.resources
+C:\Users\King\Source\Repos\Fake-Notepad\Notepad\obj\Debug\Notepad.vbproj.GenerateResource.Cache

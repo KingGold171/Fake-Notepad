@@ -17,7 +17,8 @@
     Private Sub BSOD_KeyDown(sender As Object, e As KeyEventArgs) Handles Me.KeyDown
         If e.Control AndAlso e.Shift AndAlso e.KeyCode = Keys.K Then
             CloseAllowed = True
-            End
+            Me.Close()
+            Notepad.Show()
         End If
     End Sub
 End Class
